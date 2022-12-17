@@ -1,0 +1,4 @@
+robot==20071211
+robotframework==6.0.1
+selenium==4.7.0
+
